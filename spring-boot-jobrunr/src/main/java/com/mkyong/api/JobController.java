@@ -47,5 +47,10 @@ public class JobController {
 
         return "Job is scheduled.";
     }
+public string fetchjobiInfo(){
+
+return null;
+
+}
 
 }
