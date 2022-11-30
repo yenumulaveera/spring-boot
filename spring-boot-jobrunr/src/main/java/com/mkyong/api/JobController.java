@@ -47,10 +47,14 @@ public class JobController {
 
         return "Job is scheduled.";
     }
-public string fetchjobiInfo(){
+public string updatejobiInfo(){
 
 return null;
 
 }
+    public string fetchjobiInfo(){
+
+return null;
+
 
 }
