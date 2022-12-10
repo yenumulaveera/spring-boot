@@ -63,3 +63,7 @@ public string RocjobInfo(){
 return null;
 
 }
+    public string REDupdate(){
+        
+        return red;
+    }
