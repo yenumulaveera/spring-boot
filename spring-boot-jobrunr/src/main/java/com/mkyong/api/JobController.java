@@ -58,3 +58,8 @@ return null;
 
 
 }
+public string RocjobInfo(){
+
+return null;
+
+}
